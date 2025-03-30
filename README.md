@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED NAVAS</h1>
 <h3 align="center">Bridging Code & Cloud with Expertise in Fullstack, and AWS DevOps</h3>
-
-
+<h6>Welcome to my GitHub! I'm a passionate Software Developer and AWS DevOps Engineer specializing in high-performance build tooling, full-stack development, and cloud computing. With expertise in JavaScript, TypeScript, Python, AWS, Kubernetes, and CI/CD, I thrive on building scalable, high-traffic applications.  
+ I contribute to open-source projects and continuously explore innovative solutions. Feel free to check out my repositories for insights into my work.  
+Let's connect—whether you’re interested in collaboration, tech discussions, or supporting my journey. Reach out via LinkedIn or email!</h6>
+</br>
+</br>
+</br>
 - 🔭 I’m currently working on **Dynamic projects**
 
 - 🌱 I’m currently learning **research & development**
