@@ -5,7 +5,7 @@
 Let's connect—whether you’re interested in collaboration, tech discussions, or supporting my journey. Reach out via LinkedIn or email!</h6>
 </br>
 </br>
-- 🔭 I’m currently working on **Dynamic projects**
+- 🔭 I’m currently working on Dynamic projects
 
 - 🌱 I’m currently learning **research & development**
 
